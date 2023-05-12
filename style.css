@@ -1,0 +1,38 @@
+#nameofcity {
+margin-left: 800px;
+display: flex;
+}
+
+#weather {
+    margin-left: 800px;
+}
+
+h1 {
+    justify-content: center;
+    display: flex;
+}
+
+body {
+ background-image: url(weather.jpeg);
+}
+
+form > input,
+form > button {
+  height: 36px;
+  border-radius: 20px;
+  padding-left: 15px;
+  font-size: 20px;
+}
+
+button:hover {
+    background-color: aqua;
+}
+
+ul > li {
+    font-size: 25px;
+    background-origin: padding-box;
+    background-color: white;
+    width: max-content;
+    list-style: none;
+    padding: 10px;
+}
