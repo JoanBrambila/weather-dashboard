@@ -1,6 +1,6 @@
 # weather-dashboard
 [Screenshot of My Application](./site.png)
-link to my deployed application: 
+link to my deployed application: https://joanbrambila.github.io/weather-dashboard/
 
 ## Description
 
